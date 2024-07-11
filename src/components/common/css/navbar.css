@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    width: 100%;
+    background: red;
+    
+}
+.navbar h1{
+    margin-left: 40px;
+}
+
+.navbar h2{
+    margin-left:40px;
+}

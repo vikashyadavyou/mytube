@@ -1,0 +1,39 @@
+.form{
+    margin-top: 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-left: 50px;
+    background-color: aqua;
+    padding-right: 40px;
+    
+    
+}
+
+.Upload_form{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+label{
+    font-size: 25px;
+}
+
+input{
+    height:50px;
+     width: 100%;
+     font-size: 25px;
+}
+
+#video_file{
+    font-size: 16px;
+    padding:10px
+}
+
+button{
+    font-size: 25px;
+    color:blue;
+}
+
+
